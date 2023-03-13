@@ -7,4 +7,7 @@ namespace PISLAB1
     class NewClass
     {
         Console.WriteLine("Klasa 1");
+        //konflikt metoda
+        Console.WriteLine("Promjena na klasi");
+    }
 }
