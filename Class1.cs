@@ -6,5 +6,5 @@ namespace PISLAB1
 {
     class NewClass
     {
-    }
+        Console.WriteLine("Klasa 1");
 }
